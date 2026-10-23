@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0-beta.1",
+  "notes": "# Latin Gusto! — 0.1.0-beta.1\r\n\r\n## Español\r\n\r\nPrimera beta de distribución de RestaurantesMadrid Plataforma. Incluye la interfaz\r\nde actualización con confirmación y separación de canales. El servicio privado,\r\nlas claves reales y las integraciones en un equipo instalado deben validarse\r\nantes de autorizar su distribución.\r\n\r\n## English\r\n\r\nFirst distribution beta of RestaurantesMadrid Plataforma. Includes update UI\r\nwith confirmation and separate channels. The private service, real signing keys\r\nand integrations on an installed computer must be validated before distribution.\r\n",
+  "pub_date": "2026-10-23T22:52:53.116Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Pachuchu19/restaurantesmadrid-plataforma-releases/releases/download/desktop-beta-v0.1.0-beta.1/restaurantesmadrid-beta_0.1.0-beta.1_windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTTVsMUhtWnRYdTAwVzIwaXpzNXU2SWVwNWk5NjQvV1o4eW1hazl5bnVsZUZUNjRkTG9tWU0rdU1kalRSQ1JUYXlLRERrK2Y1YlNkdU5POTh3eDd3NGI0K1RkaTJ1alE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzk1Njc1CWZpbGU6TGF0aW4gR3VzdG8hIEJldGFfMC4xLjAtYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMC1iZXRhLjEKNU04eW5pSnpQN1pKdUZiOC96Q1o4U1hBUFA5bnVDaldtVFpyWFN0ZDJET1JYOTdsbnFpZW9yTU9Xdi9pM1V6RTNQYTdiT1pGMmdoU3hKYlJtelJtQ2c9PQo="
+    }
+  }
+}
